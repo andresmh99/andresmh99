@@ -1,3 +1,18 @@
+### About Me
+
+👨‍💻 Técnico en Análisis de Sistemas | Futuro Ingeniero Informático
+
+Soy un apasionado de la innovación y el aprendizaje continuo, con 3 años de experiencia en programación y desarrollo web. Actualmente, estoy a un año de graduarme como ingeniero informático.
+
+🔧 **Habilidades Técnicas:**
+- **Frontend & Backend:** Angular, Node.js
+- **Bases de Datos:** PostgreSQL
+- **Estilo y Diseño:** Tailwind CSS
+- **Diseño Gráfico:** Adobe Suite
+
+🎨 Además, tengo experiencia en diseño gráfico, creando interfaces atractivas y funcionales. También he trabajado como Community Manager, combinando mi pasión por la tecnología con habilidades de comunicación y diseño.
+
+Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente. ¡Conectemos y creemos algo increíble juntos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andresmh99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresmh99) 
