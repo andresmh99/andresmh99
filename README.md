@@ -12,7 +12,9 @@ Soy un apasionado de la innovación y el aprendizaje continuo, con 3 años de ex
 
 🎨 Además, tengo experiencia en diseño gráfico, creando interfaces atractivas y funcionales. También he trabajado como Community Manager, combinando mi pasión por la tecnología con habilidades de comunicación y diseño.
 
-Siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente. ¡Conectemos y creemos algo increíble juntos!
+🇻🇪 Venezolano viviendo en Santiago de Chile 🇨🇱, siempre estoy en busca de nuevos desafíos y oportunidades para crecer profesionalmente. 
+
+¡Conectemos y creemos algo increíble juntos! Puedes contactarme si deseas que me una a tu equipo de trabajo.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andresmh99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresmh99) 
